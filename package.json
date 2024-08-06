@@ -1,0 +1,25 @@
+{
+  "name": "reactlaraveltable",
+  "version": "0.0.1",
+  "description": "this is a simple table by bootstrap that compatible with bootstrap",
+  "main": "index.jsx",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MohammadAminDadkhah/ReactLaravelTable.git"
+  },
+  "dependencies": {
+    "bootstrap": "5.3.3"
+  },
+  "keywords": [
+    "table",
+    "laravel",
+    "react",
+    "bootstrap"
+  ],
+  "author": "MohammadAminDadkhah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammadAminDadkhah/ReactLaravelTable/issues"
+  },
+  "homepage": "https://github.com/MohammadAminDadkhah/ReactLaravelTable#readme"
+}
